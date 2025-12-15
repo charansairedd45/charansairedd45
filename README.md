@@ -6,6 +6,7 @@
 
 ## 💻 My LeetCode Profile
 👉 [https://leetcode.com/u/charansaireddy65/](https://leetcode.com/u/charansaireddy65/)
+[![LeetCode Badge](https://leetcode.com/medal/?showImg=0&id=8175059&isLevel=false)](https://leetcode.com/u/charansaireddy65/)
 
 ## 🤝 Connect with Me
 - 📫 Email: charansaireddy65@gmail.com
